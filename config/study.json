@@ -1,0 +1,42 @@
+[
+  {
+    "key": "sub-a",
+    "label": "浏览器和网络",
+    "children": [
+      {
+        "key": "1",
+        "label": "常见的HTTP请求方法"
+      },
+      {
+        "key": "2",
+        "label": "简单请求和复杂请求的区别"
+      },
+      {
+        "key": "3",
+        "label": "GET请求和POST请求的区别"
+      },
+      {
+        "key": "4",
+        "label": "POST请求和PUT请求的区别"
+      }
+    ]
+  },
+  {
+    "key": "sub-b",
+    "label": "HTML和CSS",
+    "children": [
+      {
+        "key": "5",
+        "label": "HTML5有哪些新特性"
+      },
+      {
+        "key": "6",
+        "label": "HTML语义化的理解"
+      },
+      {
+        "key": "7",
+        "label": "script标签中defer和async的区别"
+      }
+    ]
+  }
+]

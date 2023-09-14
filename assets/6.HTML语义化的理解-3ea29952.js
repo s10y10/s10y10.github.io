@@ -1,0 +1,1 @@
+import{J as n}from"./vendor-bb1848df.js";function r(t){return n.jsx(n.Fragment,{})}function s(t={}){const{wrapper:e}=t.components||{};return e?n.jsx(e,Object.assign({},t,{children:n.jsx(r,t)})):r()}export{s as default};
